@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tugaspendahuluan7\\tugaspendahuluan7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|solutionrelative:tugaspendahuluan7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tugaspendahuluan7\\tugaspendahuluan7\\kuliahmahasiswa103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|solutionrelative:tugaspendahuluan7\\kuliahmahasiswa103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tugaspendahuluan7\\tugaspendahuluan7\\datamahasiswa103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|solutionrelative:tugaspendahuluan7\\datamahasiswa103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tugaspendahuluan7\\tugaspendahuluan7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|solutionrelative:tugaspendahuluan7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D75B872D-5203-6236-588A-FE93307554D4}|TugasPendahuluan7\\TugasPendahuluan7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\tugaspendahuluan7\\tugaspendahuluan7\\tp7_1_103082400038.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KuliahMahasiswa103082400038.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\KuliahMahasiswa103082400038.cs",
               "RelativeDocumentMoniker": "TugasPendahuluan7\\KuliahMahasiswa103082400038.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\KuliahMahasiswa103082400038.cs",
               "RelativeToolTip": "TugasPendahuluan7\\KuliahMahasiswa103082400038.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T11:00:55.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "tp7_2_103082400038.json",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\tp7_2_103082400038.json",
               "RelativeDocumentMoniker": "TugasPendahuluan7\\tp7_2_103082400038.json",
@@ -60,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DataMahasiswa103082400038.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\DataMahasiswa103082400038.cs",
               "RelativeDocumentMoniker": "TugasPendahuluan7\\DataMahasiswa103082400038.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\DataMahasiswa103082400038.cs",
               "RelativeToolTip": "TugasPendahuluan7\\DataMahasiswa103082400038.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T10:51:55.524Z",
               "EditorCaption": ""
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\TugasPendahuluan7\\TugasPendahuluan7\\Program.cs",
               "RelativeDocumentMoniker": "TugasPendahuluan7\\Program.cs",

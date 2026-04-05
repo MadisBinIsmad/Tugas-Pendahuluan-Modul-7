@@ -25,7 +25,7 @@ namespace TugasPendahuluan7
 
             Root data = JsonSerializer.Deserialize<Root>(json);
 
-            Console.WriteLine("Daftar mata kuliah yang diambil:");
+            Console.WriteLine("Daftar mata kuliah yang diambill :");
 
             int i = 1;
             foreach (var course in data.courses)
