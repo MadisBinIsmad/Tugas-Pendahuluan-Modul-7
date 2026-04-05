@@ -1,0 +1,20 @@
+﻿{
+  "courses": [
+    {
+      "code": "IF101",
+      "name": "Struktur Data"
+    },
+    {
+      "code": "IF102",
+      "name": "Basis Data"
+    },
+    {
+      "code": "IF103",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "IF104",
+      "name": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}
